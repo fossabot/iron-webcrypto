@@ -1,4 +1,5 @@
 # iron-webcrypto (beta) [![jsDocs.io](https://img.shields.io/badge/jsDocs.io-reference-blue?style=flat-square)](https://www.jsdocs.io/package/iron-webcrypto) [![npm](https://img.shields.io/npm/dm/iron-webcrypto?style=flat-square)](https://www.npmjs.com/package/iron-webcrypto)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrc-dd%2Firon-webcrypto.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbrc-dd%2Firon-webcrypto?ref=badge_shield)
 
 This module is a replacement for [`@hapi/iron`](https://hapi.dev/module/iron/),
 written using standard APIs like Web Crypto and Uint8Array, which make this
@@ -91,3 +92,6 @@ thoroughly review the code.
     Copyright 2018-2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
     https://cdn.jsdelivr.net/npm/@aws-sdk/util-base64@3.208.0/LICENSE
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrc-dd%2Firon-webcrypto.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbrc-dd%2Firon-webcrypto?ref=badge_large)
